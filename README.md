@@ -1,2 +1,3 @@
 # weather-forecast-
-weather forecast in reaact
+weather forecast in react.js
+
